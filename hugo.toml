@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://nspeich.github.io/heticgit/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My New Hugo Site v2'
 theme = 'ananke'
