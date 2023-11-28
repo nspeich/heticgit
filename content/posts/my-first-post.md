@@ -58,3 +58,5 @@ Si on récapitule on a :
 - Installé un site statique grâce à ces outils
 - Lancé un site avec le thème Awake
 - Créer un premier post
+
+on continue ? 
